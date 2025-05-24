@@ -27,6 +27,7 @@ const sendEmployeeCredentials = async (email, username, password, companyName) =
             <p><strong>Temporary Password:</strong> ${password}</p>
           </div>
           <p>Please login using these credentials and change your password immediately for security reasons.</p>
+           <p>You can login at: <a href="https://ejxemployee.vercel.app/">https://ejxemployee.vercel.app/</a></p>
           <p>If you have any questions, please contact your administrator.</p>
           <p style="margin-top: 30px; font-size: 12px; color: #6c757d; text-align: center;">This is an automated email. Please do not reply.</p>
         </div>
